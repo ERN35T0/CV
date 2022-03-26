@@ -1,8 +1,8 @@
 ## Ernesto Baquero
 
-Hi! I currently live in Lanzarote, Canary Islands and I am a junior developer. I worked for several years in the telecomunications industry and In my last job I was managing a team of 13 people in Madrid. 
+Hi! I currently live in Lanzarote, Canary Islands and I am a junior developer. I worked for several years in the telecomunications industry and in my last job I was managing a team of 13 people in Madrid. 
 
-I've started to code in December. I've enrolled in Harvard CS50: Introduction to Computer Science and it has been extremely challenging in interesting so far. In February, I took part in the intensive 26-days experience of La Piscine with the School 42 in Madrid and we can call that a life changing experience!
+I've started to code in December. I've enrolled in Harvard CS50: Introduction to Computer Science and it has been extremely challenging and interesting so far. In February, I took part in the intensive 26-days experience of La Piscine with the School 42 in Madrid and we can call that a life changing experience!
 
 So far, I've create a couple of programs in C and I dabbed in Ruby, CSS and HTML. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
 
