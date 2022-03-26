@@ -1,24 +1,26 @@
 ## Ernesto Baquero
 
-I'm a Spanish living in Lanzarote, Canary Islands and I've worked several years in the telecomunications industry. I've recently started to learn code. I've create a couple of programs in C.
+Hi! I currently live in Lanzarote, Canary Islands and I am a junior developer. I worked for several years in the telecomunications industry and In my last job I was managing a team of 13 people in Madrid. 
 
-I like to understand how things work and also to build things from scratch. Coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
+I've started to code in December. I've enrolled in Harvard CS50: Introduction to Computer Science and it has been extremely challenging in interesting so far. In February, I took part in the intensive 26-days experience of La Piscine with the School 42 in Madrid and we can call that a life changing experience!
 
-Over the next months I'm interested in fleshing out my understanding of C by completing Harvard CS50 course together with a couple of people on building something new and useful. I'm very curious and customer oriented and I have many ideas of apps, websites or simple software.
+So far, I've create a couple of programs in C and I dabbed in Ruby, CSS and HTML. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
+
+Over the next few months I want to complete CS50 and polish my learnings in a coding bootcamp before joining the company who will give me the opportunity to apply my skills to helping them grow. 
 
 
 ## Developer Skills
 
 #### C
 
-I can write simple C programs. My main quality is that I write readable code.
+I can write simple C programs. My main qualities are that I write readable code and I'm resillient.
 
 You can check out some of my solved katas at my [Codewars profile](https://www.codewars.com/users/ERN35T0).
 
 
 ## Education
 
-#### CS50: Introduction to Computer Science | Harvard University (started December 2021) 
+#### CS50: Introduction to Computer Science | Harvard University | Started December 2021 
 
 - C
 - Arrays
@@ -26,12 +28,11 @@ You can check out some of my solved katas at my [Codewars profile](https://www.c
 - Memory
 
 
-#### Participant in la piscine | school 42 (February 2022)
+#### Participant in La Piscine | School 42 | February 2022
 
 - C
 - Unix
 - Shell
-
 
 
 ## Experience
