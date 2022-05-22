@@ -4,7 +4,7 @@ Hi! I currently live in Lanzarote, Canary Islands and I am a junior developer. I
 
 I've started to code in December. I've enrolled in Harvard CS50: Introduction to Computer Science and it has been extremely challenging and interesting so far. In February, I took part in the intensive 26-days experience of La Piscine with the School 42 in Madrid and we can call that a life changing experience!
 
-So far, I've create a couple of programs in C and I dabbed in Ruby, CSS and HTML. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
+So far, I've create a couple of programs in C and I dabbed in Ruby, Python, Javascript, CSS and HTML. I like to understand how things work and coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
 
 Over the next few months I want to complete CS50 and polish my learnings in a coding bootcamp before joining the company who will give me the opportunity to apply my skills to helping them grow. 
 
@@ -26,6 +26,11 @@ You can check out some of my solved katas at my [Codewars profile](https://www.c
 - Arrays
 - Algorithms
 - Memory
+- Python
+- SQL
+- HTML, CSS, JavaScript
+- Flask
+- 
 
 
 #### Participant in La Piscine | School 42 | February 2022
