@@ -48,7 +48,7 @@ Zelenza | Jun. 2017 - oct. 2021
 * Outdoor activities, especially surfing.
 
 ## Projects
-**saharabooks.uk**
+**[saharabooks.uk](saharabooks.uk)**
 An app to connect readers withlocal bookstores in London.
 JS, Rails, stimulus
 API
